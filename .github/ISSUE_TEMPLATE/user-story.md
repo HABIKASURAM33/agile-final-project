@@ -2,7 +2,7 @@ As a user
 I need to log in to my account  
 So that I can access my dashboard  
 
-Acceptance Criteria
+###Acceptance Criteria
 
 Given I am on the login page  
 When I enter valid username and password  
